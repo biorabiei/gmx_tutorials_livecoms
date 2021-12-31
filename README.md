@@ -3,11 +3,11 @@
 This document contains a description of seven tutorials for carrying out different types
 of molecular dynamics (MD) simulations in the popular, open-source GROMACS package.
 
-## List of Authors
+## Lists of Authors
 
 - Justin A. Lemkul, Virginia Tech, Blacksburg, VA, USA
 
-## List of Contributors
+## Lists of Contributor
 <!-- We suggest listing contributers in order of addition. -->
 
 ## Paper writing as code development
